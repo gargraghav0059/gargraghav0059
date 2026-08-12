@@ -65,14 +65,71 @@
 
 ---
 
-## 📚 Currently Learning
+## 🌐 Let's Connect
 
-- ❄️ Snowflake
-- 🗄️ Data Warehousing
-- 🔄 ETL & Data Pipelines
-- 📊 Advanced Power BI
-- 🧮 Advanced SQL
+<p align="left">
+
+<a href="https://www.linkedin.com/in/raghav0059/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/gargraghav_59/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/gargraghav_59">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:rgarg_be23@thapar.edu">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-### 💡 Turning Data Into Insights
+## 🧩 What I Work With
+
+I enjoy working across the complete **Data analytics workflow**:
+
+```text
+📥 Data Collection
+       ↓
+🧹 Data Cleaning & Transformation
+       ↓
+🔍 Exploratory Data Analysis
+       ↓
+🗄️ SQL & Data Modeling
+       ↓
+📊 Visualization & Dashboards
+       ↓
+💡 Business Insights
+       ↓
+🎯 Data-Driven Decisions
+```
+
+### My Current Focus
+
+📊 **Business Intelligence**
+Building interactive dashboards, KPIs and analytical reports.
+
+🧮 **Advanced SQL**
+Writing complex queries, aggregations, joins, subqueries and window functions.
+
+🐍 **Python for Analytics**
+Using Python and its data libraries for cleaning, analysis and visualization.
+
+☁️ **Cloud Data Platforms**
+Exploring cloud-based data storage and analytics using AWS, S3, Snowflake and BigQuery.
+
+📈 **Data Storytelling**
+Turning complex datasets into simple and actionable visual insights.
+
+---
+
+### 🚀 Always Learning. Always Building. Always Improving.
+
+<p align="center">
+  <i>Thanks for stopping by! ⭐ Explore my repositories and feel free to connect.</i>
+</p>
