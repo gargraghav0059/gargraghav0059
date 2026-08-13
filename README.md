@@ -52,33 +52,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 Retail Sales Analytics Dashboard
-**Power BI • Power Query • Excel • DAX**
-
-- Analyzed retail sales data
-- Built a star-schema data model
-- Created interactive dashboards and KPIs
-- Analyzed revenue, products and regional performance
-
-### 💳 UPI Transactions Analysis
-**Power BI • Excel • DAX**
-
-- Analyzed 20,000 UPI transactions
-- Created interactive dashboards
-- Analyzed payment methods, merchants and age groups
-
-### 📈 Student Data Analysis
-**SQL Server • Tableau**
-
-- Cleaned and transformed data using SQL
-- Performed analytical queries
-- Built interactive Tableau visualizations
-- Published dashboard to Tableau Cloud
-
----
-
 ## 🧩 What I Work With
 
 I enjoy working across the complete **Data analytics workflow**:
